@@ -3,6 +3,8 @@
 
 # This chrome extension allows you to have emojis ready for copy and pasting by clicking it.
 
+![screenshot](./img.png)
+
 
 # Installation
 
