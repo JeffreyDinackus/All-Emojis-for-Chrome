@@ -1,0 +1,11 @@
+{
+  "name": "All Emojis",
+  "version": "0.0.1",
+  "description": "Copy and Paste any Emojis you like",
+  "manifest_version": 3,
+  "author": "Jeffrey Dinackus",
+  "action": {
+    "default_popup": "extension.html",
+    "default_title": "All Emojis"
+  }
+}
