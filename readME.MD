@@ -24,6 +24,6 @@ Easy to use Chrome Extension allows you to copy and paste emojis without having 
 
 
 
-Privary Policy:
+Privacy Policy:
 
 This app collect no user data.
