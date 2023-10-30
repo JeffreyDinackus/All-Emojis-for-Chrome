@@ -1,7 +1,8 @@
 # All Emojis
 
+# Descripton:
 
-# This chrome extension allows you to have emojis ready for copy and pasting by clicking it.
+Easy to use Chrome Extension allows you to copy and paste emojis without having to type anything in a search bar. Emojis are on a click away!
 
 ![screenshot](./img.png)
 
