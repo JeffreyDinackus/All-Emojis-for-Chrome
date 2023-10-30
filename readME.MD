@@ -4,7 +4,8 @@ Descripton:
 
 Easy to use Chrome Extension allows you to copy and paste emojis without having to type anything in a search bar. Emojis are on a click away!
 
-![screenshot](./img.png)
+#Light and Dark Mode
+<span style="display: inline-block;">![screenshot](./light.png)![screenshot](./dark.png)</span>
 
 
 # Installation
