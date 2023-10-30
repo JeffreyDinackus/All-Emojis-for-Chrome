@@ -19,3 +19,9 @@
 # Click "load unpacked" and select the folder where the files are(the project)
 
 # Extension installed, click puzzle piece and pin it for easy use. Then you can click the extension to open the menu. Enjoy!
+
+
+
+Privary Policy:
+
+This app collect no user data.
