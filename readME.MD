@@ -1,7 +1,8 @@
 # All Emojis
 
+Descripton:
 
-# This chrome extension allows you to have emojis ready for copy and pasting by clicking it.
+Easy to use Chrome Extension allows you to copy and paste emojis without having to type anything in a search bar. Emojis are on a click away!
 
 ![screenshot](./img.png)
 
@@ -19,3 +20,9 @@
 # Click "load unpacked" and select the folder where the files are(the project)
 
 # Extension installed, click puzzle piece and pin it for easy use. Then you can click the extension to open the menu. Enjoy!
+
+
+
+Privary Policy:
+
+This app collect no user data.
