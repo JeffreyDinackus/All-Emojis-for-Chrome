@@ -1,6 +1,6 @@
 # All Emojis
 
-# Descripton:
+Descripton:
 
 Easy to use Chrome Extension allows you to copy and paste emojis without having to type anything in a search bar. Emojis are on a click away!
 
