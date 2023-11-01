@@ -3,14 +3,14 @@
   "version": "0.0.1",
   "description": "Copy and Paste any Emojis you like",
   "manifest_version": 3,
-  "author": "Jeffrey Dinackus",
+  "author": "JavascriptCow",
   "action": {
     "default_popup": "extension.html",
     "default_title": "All Emojis"
   },
   "icons": {
     "128": "icon-128x128.png",
-    "48" : "icon-48x48.png",
-    "16" : "icon-16x16.png"
+    "48": "icon-48x48.png",
+    "16": "icon-16x16.png"
   }
 }

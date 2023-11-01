@@ -2,7 +2,16 @@
 
 Descripton:
 
-Easy to use Chrome Extension allows you to copy and paste emojis without having to type anything in a search bar. Emojis are on a click away!
+Easy to use Chrome Extension allows you to copy and paste emojis without having to type anything in a search bar. 😻 Emojis are on a click away! 🫶
+
+This app also features both light and dark mode, depending on the settings of your computer automatically. 🫥
+
+Add emojis to email, social media including Facebook, anywhere with one click, and a copy and paste. 😆
+
+No ads or trackers! 🙌 No user data collected! 😋
+
+Made with ❤️ in the USA! 
+
 
 # Light and Dark Mode
 <span style="display: inline-block;">![screenshot](./light.png)![screenshot](./dark.png)</span>
