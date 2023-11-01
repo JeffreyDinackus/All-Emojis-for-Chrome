@@ -1,7 +1,7 @@
 {
   "name": "All Emojis",
-  "version": "0.0.1",
-  "description": "Copy and Paste any Emojis you like",
+  "version": "1.1.1",
+  "description": "Easy to use Menu allows for Copying and Pasting of Emojis! No ads or trackers. ",
   "manifest_version": 3,
   "author": "JavascriptCow",
   "action": {
