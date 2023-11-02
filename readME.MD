@@ -2,6 +2,8 @@
 
 Descripton:
 
+This extension was published to the chrome store! check it out! https://chrome.google.com/webstore/detail/all-emojis/ldlgfkpggdihlemfgdnpbjlkenlifbfl?hl=en&gl=US&authuser=0&utm_source=gmail
+
 Easy to use Chrome Extension allows you to copy and paste emojis without having to type anything in a search bar. 😻 Emojis are on a click away! 🫶
 
 This app also features both light and dark mode, depending on the settings of your computer automatically. 🫥
